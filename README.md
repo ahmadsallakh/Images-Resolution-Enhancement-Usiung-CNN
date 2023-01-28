@@ -27,3 +27,60 @@ ImageNet dataset contains more than 1,500,000 images. A portion of 100,000 image
 
 You can download the datasets from [here](https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data).
 
+## Results
+
+Here, we can notice the difference in quality between a low-resolution image and an enhanced-resolution image.
+
+**Upscale Factor = 3**
+
+> Result #1
+
+<table>
+  <tr>
+    <td>
+     <img src="Images/Bird_LR.png"/>
+    </td>
+    <td>
+     <img src="Images/Bird_ER.png"/>
+    </td>
+  </tr>
+</table>
+
+> Result #2
+
+<table>
+  <tr>
+    <td>
+     <img src="Images/Sign_LR.png"/>
+    </td>
+    <td>
+     <img src="Images/Sign_ER.png"/>
+    </td>
+  </tr>
+</table>
+
+> Result #3
+
+<table>
+  <tr>
+    <td>
+     <img src="Images/Animal_LR.png"/>
+    </td>
+    <td>
+     <img src="Images/Animal_ER.png"/>
+    </td>
+  </tr>
+</table>
+
+> Result #4
+
+<table>
+  <tr>
+    <td>
+     <img src="Images/Person_LR.png"/>
+    </td>
+    <td>
+     <img src="Images/Person_ER.png"/>
+    </td>
+  </tr>
+</table>
