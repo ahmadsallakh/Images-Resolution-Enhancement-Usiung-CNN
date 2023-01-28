@@ -1,5 +1,16 @@
 # Images Resolution Enhancement Usiung CNN
 
+<table>
+  <tr>
+    <td>
+     <img src="Images/Picture_LR.png"/>
+    </td>
+    <td>
+     <img src="Images/Picture_ER.png"/>
+    </td>
+  </tr>
+</table>
+
 Image quality has seen great improvement in recent years due to the evolution in the equipment used to capture images. In early 2000s, the standard resolution was (800x600), while at this moment, the standard resolution is (1920x1080) with monitors being able to provide 4K resolution (3840x2160). However, more resolution means more size; meaning that the image will take more space the higher the quality of it. 
 
 To avoid this problem as much as possible, many solutions have been suggested which aim to lower the size of the image while keeping the quality of it intact. The most popular solution is Image Compression. Image compression is the process of encoding or converting an image file in such a way that it consumes less space than the original. file. Image compression is typically performed through an algorithm or codec which specifies all similarly colored pixels by the color name, code, and the number of pixels. This way one pixel can correspond to hundreds or thousands of pixels.
