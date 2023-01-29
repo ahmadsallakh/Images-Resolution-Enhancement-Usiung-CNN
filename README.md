@@ -95,3 +95,5 @@ Here, we can notice the difference in quality between a low-resolution image and
     </td>
   </tr>
 </table>
+
+## Note: If you can't display the Jupyter Notebook, you can do so [here](https://nbviewer.org/github/ahmadsallakh/Images-Resolution-Enhancement-Usiung-CNN/blob/main/Images%20Resolution%20Enhancement%20Using%20CNN.ipynb).
