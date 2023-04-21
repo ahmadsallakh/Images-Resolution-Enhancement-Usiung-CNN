@@ -1,4 +1,4 @@
-# Images Resolution Enhancement Usiung CNN
+# Images Resolution Enhancement Using CNN
 
 <table>
   <tr>
